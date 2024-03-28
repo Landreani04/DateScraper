@@ -6,6 +6,6 @@ File name needs to be manually added to HTML variable
 
 Host local server on html script afterwards and only future dates will be added (Test case only goes up to April 1st, 2024 but dates can be added to json file if you want to test it)
 
-Html file needs local server port 5500 to work with google API
+Html file requires Live Server extension with local server port 5500 to work with google API
 
 Authored by Luca Andreani, 2024
